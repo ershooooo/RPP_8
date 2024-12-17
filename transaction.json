@@ -1,0 +1,7 @@
+[
+        {"timestamp": "2024-01-01T10:00:00", "category": "Food", "amount": 50.00},
+        {"timestamp": "2024-01-01T12:00:00", "category": "Food", "amount": 75.00},
+        {"timestamp": "2024-01-02T15:00:00", "category": "Rent", "amount": 1000.00},
+        {"timestamp": "2024-01-03T09:00:00", "category": "Entertainment", "amount": 150.00}
+    ]
+
